@@ -1,0 +1,25 @@
+#PWC;1/4 lb;3.49
+#PWC;1/2 lb;4.29
+#PWC;3/4 lb;5.59
+#PWB;1/4 lb;5.29
+#PWB;1/2 lb;6.19
+#PWB;3/4 lb;7.29
+#KC;Mini;1.29
+#KC;Regular;1.99
+#CW;Regular;1.89
+#HCS;Full Size;5.89
+#HCS;1/2 Size;3.89
+#CCS;Full Size;5.89
+#CCS;1/2 Size;5.89
+#CC;Full Size;5.89
+#CC;1/2 Size;5.89
+#CM;Small;0.99
+#CM;Medium;2.19
+#CM;Large;2.49
+#FF;Small;1.59
+#FF;Medium;1.99
+#FF;Large;2.39
+#CS;Small;0.99
+#CS;Large;1.99
+#SCCBP;Regular;0.99
+#CCBP;Regular;2.49

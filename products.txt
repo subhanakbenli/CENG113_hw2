@@ -1,0 +1,12 @@
+#1;Patty with Cheese;PWC
+#1;Patty with Beef;PWB
+#1;Kids Cheeseburger;KC
+#1;Chicken Wrap;CW
+#2;Humus & Chicken Salad;HCS
+#2;Classic Chicken Salad;CCS
+#2;Chicken Caesar;CC
+#3;Chocolate Milkshake;CM
+#4;French Fries;FF
+#5;Chili Sauce;CS
+#6;Sour Cream & Chive Baked Potato;SCCBP
+#6;Chicken & Cheddar Baked Potato;CCBP

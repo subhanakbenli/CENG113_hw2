@@ -1,0 +1,6 @@
+1;Sandwiches and Wraps
+2;Salads
+3;Milkshake
+4;Fries
+5;Sauce
+6;Side
